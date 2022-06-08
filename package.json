@@ -8,8 +8,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/leaflet": "^1.7.10",
+    "@types/node": "^17.0.41",
+    "leaflet": "^1.8.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-leaflet": "^4.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
